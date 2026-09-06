@@ -1,0 +1,23 @@
+{
+  "repo": "tone2-electra-vst-expansion-premium",
+  "product": "Tone2 Electra VST Expansion Premium",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "audio",
+  "topics": [
+    "tone2-electra",
+    "hybrid-synth",
+    "wavetable-fx",
+    "hypersaw",
+    "preset-banks",
+    "electra-setup-failed-fix",
+    "how-to-install-electra",
+    "electra-windows",
+    "electra-desktop-2026",
+    "electra-desktop-package"
+  ],
+  "site": "toolix.me"
+}
